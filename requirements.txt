@@ -4,7 +4,7 @@
 # controllers\weather.py: 1
 # exceptions\errors.py: 1
 # main.py: 1
-Flask == 1.1.1
+Flask == 2.3.2
 
 # models\weather.py: 2
 dataclasses_json == 0.2.14
